@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1611799367 source:c:\users\sonic\desktop\generico\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1602631538 c:\users\sonic\desktop\generico\linkedlist.h
+
+1612570533 source:c:\users\sonic\desktop\generico\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1611799347 c:\users\sonic\desktop\generico\menu.h
+
+1612570533 source:c:\users\sonic\desktop\generico\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"estructuras.h"
+	"parser.h"
+
+1612570658 c:\users\sonic\desktop\generico\estructuras.h
+	"LinkedList.h"
+
+1612570533 c:\users\sonic\desktop\generico\parser.h
+
+1612570533 source:c:\users\sonic\desktop\generico\estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+
+1612570533 source:c:\users\sonic\desktop\generico\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+
+1612570600 source:c:\users\sonic\desktop\generico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"LinkedList.h"
+	"controller.h"
+
+1612570533 c:\users\sonic\desktop\generico\controller.h
+	"estructuras.h"
+
+1612581703 source:c:\users\sonic\desktop\test 05-02\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1612581703 c:\users\sonic\desktop\test 05-02\linkedlist.h
+
+1612574998 source:c:\users\sonic\desktop\test 05-02\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1611799347 c:\users\sonic\desktop\test 05-02\menu.h
+
+1612837851 source:c:\users\sonic\desktop\test 05-02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"LinkedList.h"
+	"controller.h"
+
+1612837783 c:\users\sonic\desktop\test 05-02\controller.h
+	"estructuras.h"
+
+1612837783 c:\users\sonic\desktop\test 05-02\estructuras.h
+	"LinkedList.h"
+
+1612574998 source:c:\users\sonic\desktop\test 05-02\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+
+1612839173 source:c:\users\sonic\desktop\test 05-02\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"estructuras.h"
+	"parser.h"
+
+1612570533 c:\users\sonic\desktop\test 05-02\parser.h
+
+1612838036 source:c:\users\sonic\desktop\test 05-02\estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+
+1612963730 source:c:\users\sonic\desktop\final\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"estructuras.h"
+	"parser.h"
+
+1612581703 c:\users\sonic\desktop\final\linkedlist.h
+
+1612962046 c:\users\sonic\desktop\final\estructuras.h
+	"LinkedList.h"
+
+1612570533 c:\users\sonic\desktop\final\parser.h
+
+1612963346 source:c:\users\sonic\desktop\final\estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+
+1612581703 source:c:\users\sonic\desktop\final\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1612962586 source:c:\users\sonic\desktop\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"LinkedList.h"
+	"controller.h"
+
+1611799347 c:\users\sonic\desktop\final\menu.h
+
+1612960434 c:\users\sonic\desktop\final\controller.h
+	"estructuras.h"
+
+1612959540 source:c:\users\sonic\desktop\final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1612959540 source:c:\users\sonic\desktop\final\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+
